@@ -1,7 +1,8 @@
 # Kinga Kowal
 
-## fav books
+Currently working on: Pixel - gra platformowa inspirowana Super Mario Bros
 
+## fav books
 1. "Six of Crows" Leigh Bardugo
 2. "Angst with happy ending" Weronika Łodyga
 3. "Solitaire" Alice Oseman
