@@ -1,3 +1,3 @@
-# TYtuł strony
+# Tytuł strony
 
 bardzo ciekawe informacje
