@@ -70,5 +70,4 @@ kramdown:
   footnote_nr       : 1
   show_warnings     : false
 
-title: Kinga's site
 theme: jekyll-theme-Midnight
