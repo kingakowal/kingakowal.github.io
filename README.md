@@ -1,3 +1,3 @@
-# kingakowal.github.io
+# TYtuł strony
 
 bardzo ciekawe informacje
